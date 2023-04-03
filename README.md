@@ -1,7 +1,6 @@
-![Foto](./assets/foto.jpg)
+![Foto](./assets/foto2.jpg)
 
 # Valentin Varela
-==================
 
 Hola, mi nombre es Valentin Varela, tengo 21 años y actualmente estoy cursando el segundo año de la carrera de Técnicatura en Programación.
 
